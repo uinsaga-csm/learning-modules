@@ -124,6 +124,9 @@ Manajemen risiko adalah proses berkelanjutan dan iteratif, bukan proyek satu kal
   - **Simulasi dan Pelatihan:** Melakukan _tabletop exercises_ untuk melatih tim _incident response_.
   - **Review Risiko:** Meninjau ulang dan memperbarui penilaian risiko setidaknya setahun sekali atau ketika ada perubahan signifikan (misalnya, peluncuran produk baru, merger).
 
+contoh:
+
+
 ---
 
 ### **5. Framework dan Alat Pendukung**

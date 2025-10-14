@@ -1,11 +1,5 @@
 # Standar & Kerangka Kerja Keamanan Siber
 
-**Mata Kuliah:** Manajemen Keamanan Siber
-
-**Tingkat:** Mahasiswa Strata 1 (S1)
-
----
-
 ## **Daftar Isi**
 
 1. **Pendahuluan: Mengapa Membutuhkan Standar dan Framework?**
