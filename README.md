@@ -12,3 +12,4 @@ Setiap topik akan ditulis terpisah dalam file markdown agar mudah dipelajari dan
 3. [Standar dan Kerangka](./materi/standar_dan_kerangka.md)
 4. [Kebijakan Keamanan Siber (Cyber Security Policies)](./materi/kebijakan_keamanan.md)
 5. [Identy, IAM, Authentication, etc](./materi/iam_authentication_access_control.md)
+6. [Incident Response Plan](./materi/incident_response_plan.md)
