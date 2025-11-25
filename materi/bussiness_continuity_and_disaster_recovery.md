@@ -2,11 +2,9 @@
 
 ## **Business Continuity & Disaster Recovery (BC/DR)**
 
-### **Untuk Mahasiswa S1/S2**
-
 ---
 
-## **1. KONSEP DASAR (Mudah Dipahami)**
+## **1. KONSEP DASAR **
 
 ### **Apa itu BC/DR?**
 
